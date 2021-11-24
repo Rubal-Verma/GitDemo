@@ -1,8 +1,10 @@
 
-public class Test7 {
+public class Fiboncci {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		//this program is for fiboncci series
 		
 		int n1=0, n2=1, n3;
 		
